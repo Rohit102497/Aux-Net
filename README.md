@@ -1,4 +1,4 @@
-# Auxiliary Network: Scalable and Agile Online Learning for Dynamic System with Inconsistently Available Inputs
+# Auxiliary Network: Scalable and Agile Online Learning for Dynamic System with Inconsistently Available Inputs [Link](https://link.springer.com/chapter/10.1007/978-3-031-30105-6_46)
 
 ## Citation
 
